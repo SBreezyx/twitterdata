@@ -1,0 +1,542 @@
+name|username|id
+Baldwin, Tammy|SenatorBaldwin|1074518754
+Barrasso, John|SenJohnBarrasso|202206694
+Bennet, Michael F.|SenatorBennet|224285242
+Blackburn, Marsha|MarshaBlackburn|278145569
+Blumenthal, Richard|SenBlumenthal|278124059
+Blunt, Roy|RoyBlunt|21269970
+Booker, Cory A.|CoryBooker|15808765
+Boozman, John|JohnBoozman|5558312
+Braun, Mike|SenatorBraun|1080870981877534720
+Brown, Sherrod|SenSherrodBrown|43910797
+Burr, Richard|SenatorBurr|21157904
+Cantwell, Maria|SenatorCantwell|117501995
+Capito, Shelley Moore|SenCapito|193794406
+Cardin, Benjamin L.|SenatorCardin|109071031
+Carper, Thomas R.|SenatorCarper|249787913
+Casey, Robert P. Jr.|SenBobCasey|171598736
+Cassidy, Bill|SenBillCassidy|1017500185356853248
+Collins, Susan M.|SenatorCollins|19726613
+Coons, Christopher A.|ChrisCoons|15324851
+Cornyn, John|JohnCornyn|13218102
+Cortez Masto, Catherine|SenCortezMasto|811313565760163844
+Cotton, Tom|SenTomCotton|968650362
+Cramer, Kevin|SenKevinCramer|1048784496
+Crapo, Mike|MikeCrapo|600463589
+Cruz, Ted|SenTedCruz|1074480192
+Daines, Steve|SteveDaines|11651202
+Duckworth, Tammy|SenDuckworth|1058520120
+Durbin, Richard J.|SenatorDurbin|247334603
+Ernst, Joni|SenJoniErnst|2856787757
+Feinstein, Dianne|SenFeinstein|476256944
+Fischer, Deb|SenatorFischer|1071402577
+Gillibrand, Kirsten E.|SenGillibrand|72198806
+Graham, Lindsey|LindseyGrahamSC|432895323
+Grassley, Chuck|ChuckGrassley|10615232
+Hagerty, Bill|SenatorHagerty|1346873610875654147
+Hassan, Margaret Wood|SenatorHassan|946549322
+Hawley, Josh|HawleyMO|2352629311
+Heinrich, Martin|MartinHeinrich|1099199839
+Hickenlooper, John W.|SenatorHick|1318728336923787264
+Hirono, Mazie K.|maziehirono|92186819
+Hoeven, John|SenJohnHoeven|382791093
+Hyde-Smith, Cindy|SenHydeSmith|983348251972816896
+Inhofe, James M.|JimInhofe|7270292
+Johnson, Ron|SenRonJohnson|233737858
+Kaine, Tim|timkaine|172858784
+Kelly, Mark|SenMarkKelly|1324926274888888320
+Kennedy, John|SenJohnKennedy|816683274076614656
+King, Angus S. Jr.|SenAngusKing|1068481578
+Klobuchar, Amy|SenAmyKlobuchar|22044727
+Lankford, James|SenatorLankford|225921757
+Leahy, Patrick J.|SenatorLeahy|242836537
+Lee, Mike|SenMikeLee|88784440
+Luján, Ben Ray|SenatorLujan|19318314
+Lummis, Cynthia M.|SenLummis|22831059
+Manchin, Joe, III|Sen_JoeManchin|234374703
+Markey, Edward J.|SenMarkey|21406834
+Marshall, Roger|SenatorMarshall|1336344005588738052
+McConnell, Mitch|senatemajldr|
+Menendez, Bob|SenatorMenendez|18695134
+Merkley, Jeff|SenJeffMerkley|29201047
+Moran, Jerry|JerryMoran|18632666
+Murkowski, Lisa|lisamurkowski|18061669
+Murphy, Christopher|ChrisMurphyCT|150078976
+Murray, Patty|PattyMurray|293131808
+Ossoff, Jon|ossoff|521747968
+Padilla, Alex|SenAlexPadilla|1351236267707654145
+Paul, Rand|RandPaul|216881337
+Peters, Gary C.|SenGaryPeters|236511574
+Portman, Rob|senrobportman|18915145
+Reed, Jack|SenJackReed|486694111
+Risch, James E.|SenatorRisch|1096059529
+Romney, Mitt|SenatorRomney|1078693601356509184
+Rosen, Jacky|SenJackyRosen|818554054309715969
+Rounds, Mike|SenatorRounds|2955485182
+Rubio, Marco|marcorubio|15745368
+Sanders, Bernard|SenSanders|29442313
+Sasse, Ben|SenSasse|2962923040
+Schatz, Brian|SenBrianSchatz|1262099252
+Schumer, Charles E.|SenSchumer|17494010
+Scott, Rick|SenRickScott|131546062
+Scott, Tim|SenatorTimScott|217543151
+Shaheen, Jeanne|SenatorShaheen|109287731
+Shelby, Richard C.|SenShelby|21111098
+Sinema, Kyrsten|SenatorSinema|1080844782
+Smith, Tina|SenTinaSmith|941000686275387392
+Stabenow, Debbie|SenStabenow|76456274
+Sullivan, Dan|SenDanSullivan|2891210047
+Tester, Jon|SenatorTester|515822213
+Thune, John|SenJohnThune|296361085
+Tillis, Thom|SenThomTillis|2964174789
+Toomey, Patrick J.|SenToomey|221162525
+Tuberville, Tommy|SenTuberville|1345739193721487362
+Van Hollen, Chris|ChrisVanHollen|18137749
+Warner, Mark R.|MarkWarner|7429102
+Warnock, Raphael G.|SenatorWarnock|1352287997853622273
+Warren, Elizabeth|SenWarren|970207298
+Whitehouse, Sheldon|SenWhitehouse|242555999
+Wicker, Roger F.|SenatorWicker|264219447
+Wyden, Ron|RonWyden|250188760
+Young, Todd|SenToddYoung|234128524
+Adams, Alma|RepAdams|2916086925
+Aderholt, Robert|Robert_Aderholt|76452765
+Aguilar, Pete|RepPeteAguilar|3018670151
+Allen, Rick|RepRickAllen|2964287128
+Allred, Colin|RepColinAllred|1078355119920562176
+Amodei, Mark|MarkAmodeiNV2|402719755
+Armstrong, Kelly|RepArmstrongND|1080515866255593472
+Arrington, Jodey|RepArrington|816284664658874368
+Auchincloss, Jake|RepAuchincloss|1330278736554582016
+Axne, Cindy|RepCindyAxne|1080865917377097728
+Babin, Brian|RepBrianBabin|2929491549
+Bacon, Don|RepDonBacon|818975124460335106
+Baird, Jim|RepJimBaird|1086316494450032640
+Balderson, Troy|RepBalderson|1037341536592310272
+Banks, Jim|RepJimBanks|816131319033950208
+Barr, Andy|RepAndyBarr|1089334250
+Barragán, Nanette|RepBarragan|816833925456789505
+Bass, Karen|RepKarenBass|239949176
+Beatty, Joyce|RepBeatty|1531521632
+Bentz, Cliff|RepBentz|1345788865911656454
+Bera, Ami|RepBera|950783972
+Bergman, Jack|RepJackBergman|815241612154417152
+Beyer, Don|RepDonBeyer|2962868158
+Bice, Stephanie I.|RepBice|1344260196227555334
+Biggs, Andy|RepAndyBiggsAZ|816652616625168388
+Bilirakis, Gus M.|RepGusBilirakis|26051676
+Bishop Jr., Sanford D.|SanfordBishop|249410485
+Bishop, Dan|RepDanBishop|1176522535531360257
+Blumenauer, Earl|repblumenauer|15954997
+Blunt Rochester, Lisa|RepLBR|817050219007328258
+Boebert, Lauren|RepBoebert|1342989756611907584
+Bonamici, Suzanne|RepBonamici|558769636
+Bost, Mike|RepBost|2964877294
+Bourdeaux, Carolyn|RepBourdeaux|1343620645452595200
+Bowman, Jamaal|RepBowman|1344389506963808264
+Boyle, Brendan|CongBoyle|4304448314
+Brady, Kevin|RepKevinBrady|19926675
+Brooks, Mo|RepMoBrooks|237299871
+Brown, Anthony|RepAnthonyBrown|823552974253342721
+Brown, Shontel|RepShontelBrown|1456381091598700556
+Brownley, Julia|RepBrownley|1243902714
+Buchanan, Vern|VernBuchanan|20467163
+Buck, Ken|RepKenBuck|2862577383
+Bucshon, Larry|RepLarryBucshon|234812598
+Budd, Ted|RepTedBudd|817138492614524928
+Burchett, Tim|RepTimBurchett|1028854804087492613
+Burgess, Michael|michaelcburgess|15751083
+Bush, Cori|RepCori|1002630999052865536
+Bustos, Cheri|RepCheri|1092979962
+Butterfield, G.K.|GKButterfield|432676344
+Calvert, Ken|KenCalvert|22545491
+Cammack, Kat|RepKatCammack|1344325638983987201
+Carbajal, Salud|RepCarbajal|816157667882373120
+Cardenas, Tony|RepCardenas|1222257180
+Carey, Mike|RepMikeCarey|1457745193197780993
+Carl, Jerry L.|RepJerryCarl|1341091420439015424
+Carson, André|RepAndreCarson|199325935
+Carter, Buddy|RepBuddyCarter|2973870195
+Carter, John|JudgeCarter|18030431
+Carter, Troy|RepTroyCarter|1352760304271241218
+Cartwright, Matt|RepCartwright|776664410
+Case, Ed|RepEdCase|1081350574589833221
+Casten, Sean|RepCasten|1083472286089396224
+Castor, Kathy|USRepKCastor|1880674038
+Castro, Joaquin|JoaquinCastrotx|231510077
+Cawthorn, Madison|RepCawthorn|1344007696555663360
+Chabot, Steve|RepSteveChabot|237750442
+Cheney, Liz|RepLizCheney|816719802328715264
+Cherfilus-McCormick, Sheila|CongresswomanSC|1484252226646421505
+Chu, Judy|RepJudyChu|193732179
+Cicilline, David|RepCicilline|462143773
+Clark, Katherine|RepKClark|2293131060
+Clarke, Yvette D.|RepYvetteClarke|240812994
+Cleaver, Emanuel|repcleaver|163570705
+Cline, Ben|RepBenCline|1072158357237174272
+Cloud, Michael|RepCloudTX|1039879658400112640
+Clyburn, James E.|WhipClyburn|188019606
+Clyde, Andrew S.|Rep_Clyde|1357017361568694274
+Cohen, Steve|RepCohen|162069635
+Cole, Tom|TomColeOK04|23124635
+Comer, James|RepJamesComer|1274852794206388225
+"Connolly, Gerald E. ""Gerry"""|GerryConnolly|78445977
+Cooper, Jim|repjimcooper|22523087
+Correa, J. Luis|RepLouCorrea|815985039485837312
+Costa, Jim|RepJimCosta|245451804
+Courtney, Joe|RepJoeCourtney|85396297
+Craig, Angie|RepAngieCraig|1080222360643485698
+Crawford, Rick|RepRickCrawford|233693291
+Crenshaw, Dan|RepDanCrenshaw|1080894931311431682
+Crist, Charlie|RepCharlieCrist|816030424778543104
+Crow, Jason|RepJasonCrow|1080191866509901826
+Cuellar, Henry|RepCuellar|210926192
+Curtis, John R.|RepJohnCurtis|931614483050414080
+Davids, Sharice|RepDavids|1080516116395499522
+Davidson, Warren|WarrenDavidson|742735530287304704
+Davis, Danny K.|RepDannyDavis|789244177
+Davis, Rodney|RodneyDavis|993153006
+Dean, Madeleine|RepDean|567508925
+DeFazio, Peter|RepPeterDeFazio|252249233
+DeGette, Diana|RepDianaDeGette|28599820
+DeLauro, Rosa L.|rosadelauro|140519774
+DelBene, Suzan|RepDelBene|995193054
+Delgado, Antonio|repdelgado|1080485692298444800
+Demings, Val|RepValDemings|798973032362606600
+DeSaulnier, Mark|RepDeSaulnier|2968007206
+DesJarlais, Scott|DesJarlaisTN04|235312723
+Deutch, Ted|RepTedDeutch|137794015
+Diaz-Balart, Mario|MarioDB|37094727
+Dingell, Debbie|RepDebDingell|2970279814
+Doggett, Lloyd|RepLloydDoggett|153944899
+Donalds, Byron|RepDonaldsPress|1343968646050283522
+Doyle, Michael|USRepMikeDoyle|39249305
+Duncan, Jeff|RepJeffDuncan|240393970
+Dunn, Neal|DrNealDunnFL2|815952318487298048
+Ellzey, Jake|RepEllzey|1366523868253458437
+Emmer, Tom|RepTomEmmer|2914515430
+Escobar, Veronica|RepEscobar|1075517806551154689
+Eshoo, Anna G.|RepAnnaEshoo|249348006
+Espaillat, Adriano|RepEspaillat|817076257770835968
+Estes, Ron|RepRonEstes|854715071116849157
+Evans, Dwight|RepDwightEvans|90639372
+Fallon, Pat|RepPatFallon|1343258042704527362
+Feenstra, Randy|RepFeenstra|1345135363761852416
+Ferguson, A. Drew|RepDrewFerguson|806583915012046854
+Fischbach, Michelle|RepFischbach|1344375287484723205
+Fitzgerald, Scott|RepFitzgerald|1004891731
+Fitzpatrick, Brian|RepBrianFitz|816303263586914304
+Fleischmann, Chuck|RepChuck|235190657
+Fletcher, Lizzie|RepFletcher|1075904377221722113
+Foster, Bill|RepBillFoster|1080509366
+Foxx, Virginia|virginiafoxx|16256269
+Frankel, Lois|RepLoisFrankel|1077121945
+Franklin, C. Scott|RepFranklin|1343664721384398849
+Fulcher, Russ|RepRussFulcher|1078741899572240384
+Gaetz, Matt|RepMattGaetz|818948638890217473
+Gallagher, Mike|RepGallagher|815966620300480514
+Gallego, Ruben|RepRubenGallego|2966570782
+Garamendi, John|RepGaramendi|88806753
+Garbarino, Andrew R.|RepGarbarino|1344349650447433729
+"García, Jesús ""Chuy"""|RepChuyGarcia|1082427779583541248
+Garcia, Mike|RepMikeGarcia|1262531473057423361
+Garcia, Sylvia|RepSylviaGarcia|1080587263132733442
+Gibbs, Bob|RepBobGibbs|234822928
+Gimenez, Carlos A.|RepCarlos|1343679195034103808
+Gohmert, Louie|replouiegohmert|22055226
+Golden, Jared|RepGolden|1080891667308298240
+Gomez, Jimmy|RepJimmyGomez|2371339658
+Gonzales, Tony|RepTonyGonzales|1343627416120532992
+González-Cólón, Jenniffer|RepJenniffer|819744763020775425
+Gonzalez, Anthony|RepAGonzalez|1054381765224210432
+Gonzalez, Vicente|RepGonzalez|818536152588238849
+Good, Bob|RepBobGood|1345536897838436353
+Gooden, Lance|Lancegooden|1029094268542099457
+Gosar, Paul A.|RepGosar|240760644
+Gottheimer, Josh|RepJoshG|815310506596691968
+Granger, Kay|RepKayGranger|161743731
+Graves, Garret|RepGarretGraves|2951574214
+Graves, Sam|RepSamGraves|29766367
+Green, Al|RepAlGreen|156333623
+Green, Mark|RepMarkGreen|1080477288955826176
+Greene, Majorie Taylor|RepMTG|1344356576786866176
+Griffith, Morgan|RepMGriffith|234057152
+Grijalva, Raul|RepRaulGrijalva|28602948
+Grothman, Glenn|RepGrothman|2976606250
+Guest, Michael|RepMichaelGuest|1081243468327018496
+Guthrie, S. Brett|RepGuthrie|1908143071
+Harder, Josh|RepJoshHarder|1080851152151953410
+Harris, Andy|RepAndyHarrisMD|960962340
+Harshbarger, Diana|RepHarshbarger|1345787285179162624
+Hartzler, Vicky|RepHartzler|237763317
+Hayes, Jahana|RepJahanaHayes|1082086081238102018
+Hern, Kevin|repkevinhern|1067818539179024386
+Herrell, Yvette|RepHerrell|1344416719260016641
+Herrera Butler, Jaime|HerreraBeutler|242926427
+Hice, Jody|CongressmanHice|2975091705
+Higgins, Brian|RepBrianHiggins|33576489
+Higgins, Clay|RepClayHiggins|843636970538618880
+Hill, French|RepFrenchHill|2953974395
+Himes, Jim|jahimes|31611298
+Hinson, Ashley|RepAshleyHinson|1340783304304410625
+Hollingsworth, Trey|RepTrey|811986281177772032
+Horsford, Steven|RepHorsford|389840566
+Houlahan, Chrissy|RepHoulahan|1052896620797460481
+Hoyer, Steny H.|LeaderHoyer|22012091
+Hudson, Richard|RepRichHudson|935033864
+Huffman, Jared|RepHuffman|1071102246
+Huizenga, Bill|RepHuizenga|233949261
+Issa, Darrell|repdarrellissa|63650107
+Jackson Lee, Sheila|JacksonLeeTX18|80612021
+Jackson, Ronny|RepRonnyJackson|1341903465610686464
+Jacobs, Chris|RepJacobs|1276232539510919168
+Jacobs, Sara|RepSaraJacobs|1345103905869455361
+Jayapal, Pramila|RepJayapal|815733290955112448
+Jeffries, Hakeem|RepJeffries|467823431
+Johnson, Bill|RepBillJohnson|211530910
+Johnson, Dusty|RepDustyJohnson|1074782372594413569
+Johnson, Eddie Bernice|RepEBJ|168502762
+"Johnson, Henry C. ""Hank"" Jr."|RepHankJohnson|24745957
+Johnson, Mike|RepMikeJohnson|827279765287559171
+Jones, Mondaire|RepMondaire|1345883634046279681
+Jordan, Jim|Jim_Jordan|18166778
+Joyce, David|RepDaveJoyce|976969338
+Joyce, John|RepJohnJoyce|1082311988926124036
+Kahele, Kaiali'i|KaheleRep|
+Kaptur, Marcy|RepMarcyKaptur|581141508
+Katko, John|RepJohnKatko|2966765501
+Keating, William|USRepKeating|232992031
+Keller, Fred|RepFredKeller|1136060761422405633
+Kelly, Mike|MikeKellyPA|935368364
+Kelly, Robin|RepRobinKelly|1339931490
+Kelly, Trent|RepTrentKelly|3317799825
+Khanna, Ro|RepRoKhanna|816298918468259841
+Kildee, Dan|RepDanKildee|1045110018
+Kilmer, Derek|RepDerekKilmer|1058917562
+Kim, Andy|RepAndyKimNJ|1078771848882593793
+Kim, Young|RepYoungKim|1344677401465397249
+Kind, Ron|RepRonKind|112740986
+Kinzinger, Adam|RepKinzinger|219429281
+Kirkpatrick, Ann|RepKirkpatrick|1081240074946252801
+Krishnamoorthi, Raja|CongressmanRaja|814179031956488192
+Kuster, Ann|RepAnnieKuster|1058717720
+Kustoff, David|RepDavidKustoff|816012124505931780
+LaHood, Darin|RepLaHood|3686482216
+LaMalfa, Doug|RepLaMalfa|1069124515
+Lamb, Conor|RepConorLamb|984456621417000960
+Lamborn, Doug|RepDLamborn|584012853
+Langevin, Jim|JimLangevin|18909919
+Larsen, Rick|RepRickLarsen|404132211
+Larson, John B.|RepJohnLarson|50452197
+Latta, Robert E.|boblatta|15394954
+LaTurner, Jake|RepLaTurner|1345850704800468993
+Lawrence, Brenda|RepLawrence|2863006655
+Lawson, Al|RepAlLawsonJr|818472418620608512
+Lee, Barbara|RepBarbaraLee|248735463
+Lee, Susie|RepSusieLee|1079061579973439488
+Leger Fernandez, Teresa|RepTeresaLF|1345147845926670337
+Lesko, Debbie|RepDLesko|996094929733652481
+Letlow, Julia|RepJuliaLetlow|1382395679700439041
+Levin, Andy|RepAndyLevin|1080277407867772930
+Levin, Mike|RepMikeLevin|1072134139560620033
+Lieu, Ted|RepTedLieu|3044993235
+Lofgren, Zoe|RepZoeLofgren|267938462
+Long, Billy|USRepLong|1444015610
+Loudermilk, Barry|RepLoudermilk|2914163523
+Lowenthal, Alan|RepLowenthal|1055730738
+Lucas, Frank|RepFrankLucas|242772524
+Luetkemeyer, Blaine|RepBlaine|1849261916
+Luria, Elaine|RepElaineLuria|1080292515939565568
+Lynch, Stephen F.|RepStephenLynch|310310133
+Mace, Nancy|RepNancyMace|1343597700542038017
+Malinowski, Tom|RepMalinowski|1080898026418384897
+Malliotakis, Nicole|RepMalliotakis|1344750588026900481
+Maloney, Carolyn|RepMaloney|258900199
+Maloney, Sean Patrick|RepSeanMaloney|1072467470
+Mann, Tracey|RepMann|1345825008887721986
+Manning, Kathy E.|RepKManning|1337115670161608712
+Massie, Thomas|RepThomasMassie|975200486
+Mast, Brian|RepBrianMast|814103950404239360
+Matsui, Doris O.|DorisMatsui|38254095
+McBath, Lucy|RepLucyMcBath|1082380458976051202
+McCarthy, Kevin|GOPLeader|19739126
+McCaul, Michael T.|RepMcCaul|26424123
+McClain, Lisa C.|RepLisaMcClain|1344032292432437248
+McClintock, Tom|RepMcClintock|50152441
+McCollum, Betty|BettyMcCollum04|516880804
+McEachin, A. Donald|RepMcEachin|816181091673448448
+McGovern, James|RepMcGovern|242426145
+McHenry, Patrick T.|PatrickMcHenry|27676828
+McKinley, David|RepMcKinley|240427862
+McNerney, Jerry|RepMcNerney|385429543
+Meeks, Gregory W.|RepGregoryMeeks|22812754
+Meijer, Peter|RepMeijer|1334164871420796928
+Meng, Grace|RepGraceMeng|1051127714
+Meuser, Daniel|RepMeuser|1080574793630527505
+Mfume, Kweisi|RepKweisiMfume|1276209702322438148
+Miller-Meeks, Mariannette|RepMMM|1345807954604412929
+Miller, Carol|RepCarolMiller|1081318716573470720
+Miller, Mary E.|RepMaryMiller|1343656635907125250
+Moolenaar, John|RepMoolenaar|2696643955
+Mooney, Alex|RepAlexMooney|2964526557
+Moore, Barry|RepBarryMoore|1339006078688825344
+Moore, Blake D.|RepBlakeMoore|1337452596093587462
+Moore, Gwen|RepGwenMoore|22669526
+Morelle, Joe|RepJoeMorelle|1064595993222615040
+Moulton, Seth|teammoulton|
+Mrvan, Frank J.|RepMrvan|1346205046036377601
+Mullin, Markwayne|RepMullin|1060370282
+Murphy, Gregory Francis|RepGregMurphy|1173978070535024642
+Murphy, Stephanie|RepStephMurphy|796183515998068736
+Nadler, Jerrold|RepJerryNadler|40302336
+Napolitano, Grace|gracenapolitano|161411080
+Neal, Richard E.|RepRichardNeal|442824717
+Neguse, Joe|RepJoeNeguse|1078749802765139968
+Nehls, Troy E.|RepTroyNehls|1347318288850825217
+Newhouse, Dan|RepNewhouse|2930635215
+Newman, Marie|RepMarieNewman|1343578440977494018
+Norcross, Donald|DonaldNorcross|3122099613
+Norman, Ralph|RepRalphNorman|880480631108644864
+Norton, Eleanor Holmes|EleanorNorton|23600262
+O'Halleran, Tom|RepOHalleran|808416682972770304
+Obernolte, Jay|JayObernolte|272482466
+Ocasio-Cortez, Alexandria|RepAOC|1079104563280527364
+Omar, Ilhan|Ilhan|1082334352711790593
+Owens, Burgess|RepBurgessOwens|1344481217685692416
+Palazzo, Steven|CongPalazzo|299883942
+Pallone Jr., Frank|FrankPallone|31801993
+Palmer, Gary|USRepGaryPalmer|2861616083
+Panetta, Jimmy|RepJimmyPanetta|796736612554117120
+Pappas, Chris|RepChrisPappas|1067748650485497862
+Pascrell Jr., Bill|BillPascrell|74508260
+Payne Jr., Donald|RepDonaldPayne|1155335864
+Pelosi, Nancy|SpeakerPelosi|15764644
+Pence, Greg|RepGregPence|1082369392229400576
+Perlmutter, Ed|RepPerlmutter|20552026
+Perry, Scott|RepScottPerry|18773159
+Peters, Scott|RepScottPeters|1135486501
+Pfluger, August|RepPfluger|1341120751399809026
+Phillips, Dean|RepDeanPhillips|1061310112013434882
+Pingree, Chellie|chelliepingree|14984637
+Plaskett, Stacey|StaceyPlaskett|2724095695
+Pocan, Mark|repmarkpocan|1206227149
+Porter, Katie|RepKatiePorter|1081222837459996672
+Posey, Bill|congbillposey|25086658
+Pressley, Ayanna|RepPressley|1080584229510172678
+Price, David|RepDavidEPrice|155669457
+Quigley, Mike|RepMikeQuigley|56864092
+Radewagen, Amata|RepAmata|3026622545
+Raskin, Jamie|RepRaskin|806906355214852096
+Reed, Tom|RepTomReed|
+Reschenthaler, Guy|GReschenthaler|4205133682
+Rice, Kathleen|RepKathleenRice|2970462034
+Rice, Tom|RepTomRice|1058345042
+Rodgers, Cathy McMorris|cathymcmorris|17976923
+Rogers, Harold|RepHalRogers|550401754
+Rogers, Mike|RepMikeRogersAL|33977070
+Rose, John W.|RepJohnRose|1081312310059253763
+Rosendale, Matthew M.|RepRosendale|1344751420139040783
+Ross, Deborah K.|RepDeborahRoss|1348683154815655940
+Rouzer, David|RepDavidRouzer|834069080
+Roy, Chip|RepChipRoy|1082790600292925440
+Roybal-Allard, Lucille|RepRoybalAllard|479872233
+Ruiz, Raul|RepRaulRuizMD|1089859058
+Ruppersberger, C. A. Dutch|Call_Me_Dutch|305620929
+Rush, Bobby L.|RepBobbyRush|305216911
+Rutherford, John|RepRutherfordFL|828977216595849216
+Ryan, Tim|RepTimRyan|13491312
+Sablan, Gregorio|Kilili_Sablan|926446070812602371
+Salazar, Maria Elvira|RepMariaSalazar|1325928411689349120
+San Nicolas, Michael F. Q.|GuamCongressman|346509049
+Sánchez, Linda|RepLindaSanchez|312134473
+Sarbanes, John P.|RepSarbanes|364415553
+Scalise, Steve|SteveScalise|1209417007
+Scanlon, Mary Gay|RepMGS|1067541214671577093
+Schakowsky, Jan|janschakowsky|24195214
+Schiff, Adam|RepAdamSchiff|29501253
+Schneider, Bradley|RepSchneider|1071840474
+Schrader, Kurt|RepSchrader|20545793
+Schrier, Kim|RepKimSchrier|1080462532815532032
+Schweikert, David|RepDavid|229197216
+Scott, Austin|AustinScottGA08|234797704
+Scott, David|repdavidscott|168673083
+Scott, Robert C.|BobbyScott|161791703
+Sessions, Pete|PeteSessions|24735461
+Sewell, Terri A.|RepTerriSewell|381152398
+Sherman, Brad|BradSherman|30216513
+Sherrill, Mikie|RepSherrill|1080569698536878081
+Simpson, Mike|CongMikeSimpson|76132891
+Sires, Albio|RepSires|18696134
+Slotkin, Elissa|RepSlotkin|1078401427347857408
+Smith, Adam|RepAdamSmith|58928690
+Smith, Adrian|RepAdrianSmith|296245061
+Smith, Chris||
+Smith, Jason|RepJasonSmith|1623308912
+Smucker, Lloyd|RepSmucker|41417564
+Soto, Darren|RepDarrenSoto|818713465653051392
+Spanberger, Abigail|RepSpanberger|1078771401497161728
+Spartz, Victoria|RepSpartz|1344845201479663621
+Speier, Jackie|RepSpeier|24913074
+Stansbury, Melanie |Rep_Stansbury|1404519992582942724
+Stanton, Greg|RepGregStanton|1080885078425784320
+Stauber, Pete|RepPeteStauber|1075830599007510535
+Steel, Michelle|RepSteel|1343740146630451200
+Stefanik, Elise|RepStefanik|2962813893
+Steil, Bryan|RepBryanSteil|1075205691621720064
+Steube, W. Gregory|RepGregSteube|1083125649609506816
+Stevens, Haley|RepHaleyStevens|1076161611033968640
+Stewart, Chris|RepChrisStewart|1072008757
+Strickland, Marilyn|RepStricklandWA|1343646545955213312
+Suozzi, Thomas|RepTomSuozzi|816705409486618624
+Swalwell, Eric|RepSwalwell|942156122
+Takano, Mark|RepMarkTakano|1037321378
+Taylor, Van|RepVanTaylor|1075040139351597056
+Tenney, Claudia|claudiatenney|756285384
+Thompson, Bennie G.|BennieGThompson|82453460
+Thompson, Glenn|CongressmanGT|18967498
+Thompson, Mike|RepThompson|303861808
+Tiffany, Thomas P.|RepTiffany|1267841066335682562
+Timmons, William|RepTimmons|1079770852302958592
+Titus, Dina|repdinatitus|122174004
+Tlaib, Rashida|RepRashida|1079769536730140672
+Tonko, Paul D.|RepPaulTonko|84119348
+Torres, Norma|NormaJTorres|236279233
+Torres, Ritchie|RepRitchie|1276403757224546304
+Trahan, Lori|RepLoriTrahan|1079802482640019456
+Trone, David|RepDavidTrone|1080573351914061825
+Turner, Mike|RepMikeTurner|51228911
+Underwood, Lauren|RepUnderwood|1080539438508400642
+Upton, Fred|RepFredUpton|124224165
+Valadao, David G.|RepDavidValadao|1128514404
+Van Drew, Jefferson||
+Van Duyne, Beth|RepBethVanDuyne|1339633259349745670
+Vargas, Juan|RepJuanVargas|1260172386
+Veasey, Marc|RepVeasey|1074129612
+Velázquez, Nydia M.|NydiaVelazquez|164369297
+Wagner, Ann|RepAnnWagner|1051446626
+Walberg, Tim|RepWalberg|237862972
+Walorski, Jackie|RepWalorski|1065995022
+Waltz, Michael|michaelgwaltz|833673914
+Wasserman Schultz, Debbie|RepDWStweets|1140648348
+Waters, Maxine|RepMaxineWaters|36686040
+Watson Coleman, Bonnie|RepBonnie|2968451607
+Weber, Randy|TXRandy14|1058051748
+Webster, Daniel|RepWebster|281540744
+Welch, Peter|PeterWelch|1410590874
+Wenstrup, Brad|RepBradWenstrup|518644221
+Westerman, Bruce|RepWesterman|2852998461
+Wexton, Jennifer|RepWexton|1017819745880543238
+Wild, Susan|RepSusanWild|1069636653353000962
+Williams, Nikema|RepNikema|1345461797361504259
+Williams, Roger|RepRWilliams|1077446982
+Wilson, Frederica|RepWilson|234014087
+Wilson, Joe|RepJoeWilson|254082173
+Wittman, Robert J.|RobWittman|15356407
+Womack, Steve|rep_stevewomack|234469322
+Yarmuth, John A.|RepJohnYarmuth|384913290
+Zeldin, Lee|RepLeeZeldin|2750127259
+Reid, Harry|SenatorReid|16789970
+Boehner, John Andrew|SpeakerBoehner|7713202
+Ryan, Paul D.|SpeakerRyan|18916432
+Cantor, Eric|EricCantor|18891923
+Obama, Barack|BarackObama|813286
