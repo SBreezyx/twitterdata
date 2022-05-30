@@ -1,0 +1,1197 @@
+{
+  "data": [
+    {
+      "author_id": "102241407",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "159",
+            "name": "States",
+            "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+          },
+          "entity": {
+            "id": "855432197297192961",
+            "name": "Texas",
+            "description": "Texas"
+          }
+        }
+      ],
+      "text": "\"gun grabs\" https://t.co/1qN9jAdcQs",
+      "conversation_id": "1529639433749790722",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1529211627354324992"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "entities": {
+        "urls": [
+          {
+            "start": 12,
+            "end": 35,
+            "url": "https://t.co/1qN9jAdcQs",
+            "expanded_url": "https://twitter.com/kenrudin/status/1529211627354324992",
+            "display_url": "twitter.com/kenrudin/statu\u2026"
+          }
+        ]
+      },
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433749790722"
+    },
+    {
+      "author_id": "350537543",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1266467007987253248",
+            "name": "George Floyd"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "10038764303",
+            "name": "Barack Obama",
+            "description": "Former US President Barack Obama"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "10038764303",
+            "name": "Barack Obama",
+            "description": "Former US President Barack Obama"
+          }
+        },
+        {
+          "domain": {
+            "id": "159",
+            "name": "States",
+            "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+          },
+          "entity": {
+            "id": "855432197297192961",
+            "name": "Texas",
+            "description": "Texas"
+          }
+        }
+      ],
+      "text": "@BarackObama What does what happened in Texas have to do with George Floyd?",
+      "conversation_id": "1529555038246428672",
+      "in_reply_to_user_id": "813286",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1529555038246428672"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "BarackObama",
+            "id": "813286"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 40,
+            "end": 44,
+            "probability": 0.9772,
+            "type": "Place",
+            "normalized_text": "Texas"
+          },
+          {
+            "start": 62,
+            "end": 73,
+            "probability": 0.974,
+            "type": "Person",
+            "normalized_text": "George Floyd"
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433737326593"
+    },
+    {
+      "author_id": "1244329953451278337",
+      "text": "https://t.co/ANabeSe1Zm",
+      "conversation_id": "1529639433636614145",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/ANabeSe1Zm",
+            "expanded_url": "https://www.huffpost.com/entry/texas-school-shooting-victims-teacher_n_628d7e34e4b0b1d9844e63a3/amp",
+            "display_url": "huffpost.com/entry/texas-sc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1529515571171172355/LqttHc8n?format=jpg&name=orig",
+                "width": 1778,
+                "height": 991
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1529515571171172355/LqttHc8n?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Students, Teachers Identified As Victims In Texas School Shooting",
+            "description": "All 21 victims had been in one classroom, a Texas public safety official told CNN.",
+            "unwound_url": "https://www.huffpost.com/entry/texas-school-shooting-victims-teacher_n_628d7e34e4b0b1d9844e63a3/amp"
+          }
+        ]
+      },
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433636614145"
+    },
+    {
+      "author_id": "3170869955",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "10037721473",
+            "name": "Marco Rubio",
+            "description": "US Senator Marco Rubio (FL)"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "10037721473",
+            "name": "Marco Rubio",
+            "description": "US Senator Marco Rubio (FL)"
+          }
+        }
+      ],
+      "text": "RT @valdemings: Marco Rubio is proving why his time in the Senate should be up. Over and over again, during the worst of times, he lacks th\u2026",
+      "conversation_id": "1529639433602990082",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529552929547599873"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "valdemings",
+            "id": "3404875323"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433602990082"
+    },
+    {
+      "author_id": "588794135",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "998665458063560704",
+            "name": "Greg Abbott",
+            "description": "US Governor of Texas, Greg Abbott"
+          }
+        },
+        {
+          "domain": {
+            "id": "29",
+            "name": "Events [Entity Service]",
+            "description": "Entity Service related Events domain"
+          },
+          "entity": {
+            "id": "1491415810367098880",
+            "name": "2022 Texas gubernatorial election"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "998665458063560704",
+            "name": "Greg Abbott",
+            "description": "US Governor of Texas, Greg Abbott"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1491415810367098880",
+            "name": "2022 Texas gubernatorial election"
+          }
+        },
+        {
+          "domain": {
+            "id": "159",
+            "name": "States",
+            "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+          },
+          "entity": {
+            "id": "855432197297192961",
+            "name": "Texas",
+            "description": "Texas"
+          }
+        }
+      ],
+      "text": "RT @America1Scotty: That\u2019s Him! The guy that Confronted Gov Abbott In Texas Today! https://t.co/1mrDl3XlJA",
+      "conversation_id": "1529639433351348224",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529570579317137408"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "America1Scotty",
+            "id": "1161154266049986560"
+          }
+        ],
+        "urls": [
+          {
+            "start": 83,
+            "end": 106,
+            "url": "https://t.co/1mrDl3XlJA",
+            "expanded_url": "https://twitter.com/America1Scotty/status/1529570579317137408/photo/1",
+            "display_url": "pic.twitter.com/1mrDl3XlJA",
+            "media_key": "3_1529570576733446145"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433351348224"
+    },
+    {
+      "author_id": "545013286",
+      "text": "@blindsideguy @ThyrzaGrey My kid and his friends covered this song at the school talent show just a few years ago. Ya ya ya, I\u2019m proud of the other stuff but this was knee buckling. I can post the video if you are interested.",
+      "conversation_id": "1529627998173171712",
+      "in_reply_to_user_id": "727597759",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1529627998173171712"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "blindsideguy",
+            "id": "727597759"
+          },
+          {
+            "start": 14,
+            "end": 25,
+            "username": "ThyrzaGrey",
+            "id": "1267230753873522689"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433347026944"
+    },
+    {
+      "author_id": "971185488",
+      "text": "RT @dinachka82: Actually, there is something we can do. Every person who works in a school building should stop coming to work. Every singl\u2026",
+      "conversation_id": "1529639433322078208",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529240684212932608"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "dinachka82",
+            "id": "563248428"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433322078208"
+    },
+    {
+      "author_id": "1445497426974949384",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "981196086575443968",
+            "name": "Beto O'Rourke",
+            "description": "US Representative Beto O'Rourke (TX-16)"
+          }
+        },
+        {
+          "domain": {
+            "id": "29",
+            "name": "Events [Entity Service]",
+            "description": "Entity Service related Events domain"
+          },
+          "entity": {
+            "id": "1491415810367098880",
+            "name": "2022 Texas gubernatorial election"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "981196086575443968",
+            "name": "Beto O'Rourke",
+            "description": "US Representative Beto O'Rourke (TX-16)"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1491415810367098880",
+            "name": "2022 Texas gubernatorial election"
+          }
+        }
+      ],
+      "text": "RT @steve_vladeck: If you think it was \"classless\" for @BetoORourke to confront Governor Abbott at a press conference but don't think it wa\u2026",
+      "conversation_id": "1529639433309507586",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529560447422177282"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "steve_vladeck",
+            "id": "380268462"
+          },
+          {
+            "start": 55,
+            "end": 67,
+            "username": "BetoORourke",
+            "id": "342863309"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433309507586"
+    },
+    {
+      "author_id": "168527207",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597310615553",
+            "name": "Entertainment"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596157181956",
+            "name": "Online Site"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597105094656",
+            "name": "TV/Movies Related"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1065657279150665728",
+            "name": "Fox News",
+            "description": "Fox News"
+          }
+        }
+      ],
+      "text": "RT @abughazalehkat: In the last 24 hours since the Uvalde massacre, Fox News has proposed at least 50 \"solutions\" and none of them are gun\u2026",
+      "conversation_id": "1529639433250689026",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529573713976377348"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "abughazalehkat",
+            "id": "2868329501"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433250689026"
+    },
+    {
+      "author_id": "74740127",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "1046542544715173888",
+            "name": "Softball",
+            "description": "Softball"
+          }
+        }
+      ],
+      "text": "SOFTBALL: Hudson 22, Quabbin 2: Nezuch, Korowski, Collette power offensive surge as Hawks roll over Panthers in CMADA Class B quarterfinal @HHSHawksAD @QuabbinAD https://t.co/SjWz6WY7je",
+      "conversation_id": "1529639433183567872",
+      "entities": {
+        "mentions": [
+          {
+            "start": 139,
+            "end": 150,
+            "username": "HHSHawksAD",
+            "id": "3141747983"
+          },
+          {
+            "start": 151,
+            "end": 161,
+            "username": "QuabbinAD",
+            "id": "3308794029"
+          }
+        ],
+        "urls": [
+          {
+            "start": 162,
+            "end": 185,
+            "url": "https://t.co/SjWz6WY7je",
+            "expanded_url": "https://www.telegram.com/story/sports/high-school/2020/10/26/central-mass-high-school-schedule-scoreboard/6050533002/",
+            "display_url": "telegram.com/story/sports/h\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1527410930006511631/D7wUjf3d?format=jpg&name=orig",
+                "width": 1600,
+                "height": 800
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1527410930006511631/D7wUjf3d?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Live spring high school schedule, results, box scores and recaps",
+            "description": "Central Mass. high school daily schedule and scoreboard for baseball, softball, lacrosse, tennis, track and boys' volleyball.",
+            "unwound_url": "https://www.telegram.com/story/sports/high-school/2020/10/26/central-mass-high-school-schedule-scoreboard/6050533002/"
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "created_at": "2022-05-26T01:43:54.000Z",
+      "id": "1529639433183567872"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "P",
+        "id": "102241407",
+        "username": "prigups",
+        "verified": false
+      },
+      {
+        "location": "Washington, DC",
+        "name": "Ken Rudin",
+        "id": "16249259",
+        "username": "kenrudin",
+        "verified": true
+      },
+      {
+        "name": "Tnwood",
+        "id": "350537543",
+        "username": "Tnwood123",
+        "verified": false
+      },
+      {
+        "location": "Washington, DC",
+        "name": "Barack Obama",
+        "id": "813286",
+        "username": "BarackObama",
+        "verified": true
+      },
+      {
+        "location": " they/it + blk ",
+        "name": "frankie / cyka \ud83c\udf80",
+        "id": "1244329953451278337",
+        "username": "3vilelys",
+        "verified": false
+      },
+      {
+        "location": "Vienna VA",
+        "name": "Deborah MacPherson \ud83c\uddfa\ud83c\uddf8",
+        "id": "3170869955",
+        "username": "debmacp1",
+        "verified": false
+      },
+      {
+        "location": "Orlando, FL",
+        "name": "Val Demings",
+        "id": "3404875323",
+        "username": "valdemings",
+        "verified": true
+      },
+      {
+        "location": "Columbia, Maryland USA",
+        "name": "Daisy S. Aquila",
+        "id": "588794135",
+        "username": "cuts_hair",
+        "verified": false
+      },
+      {
+        "name": "Mr. Potato Head",
+        "id": "1161154266049986560",
+        "username": "America1Scotty",
+        "verified": false
+      },
+      {
+        "location": "San Diego",
+        "name": "John Medina",
+        "id": "545013286",
+        "username": "johnnymo124",
+        "verified": false
+      },
+      {
+        "location": "Wellington, Aotearoa nZ.",
+        "name": "David Piper",
+        "id": "727597759",
+        "username": "blindsideguy",
+        "verified": false
+      },
+      {
+        "name": "kae.\ud83c\udf39",
+        "id": "971185488",
+        "username": "kxmack",
+        "verified": false
+      },
+      {
+        "location": "Philadelphia, PA",
+        "name": "Dina Ley",
+        "id": "563248428",
+        "username": "dinachka82",
+        "verified": false
+      },
+      {
+        "location": "San Antonio, TX",
+        "name": "Olaoluwa Bode-Omoleye",
+        "id": "1445497426974949384",
+        "username": "bode_omoleye",
+        "verified": false
+      },
+      {
+        "location": "Austin, TX",
+        "name": "Steve Vladeck",
+        "id": "380268462",
+        "username": "steve_vladeck",
+        "verified": true
+      },
+      {
+        "location": "Wichita, KS",
+        "name": "Adam \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+        "id": "168527207",
+        "username": "Eastwood4KU",
+        "verified": false
+      },
+      {
+        "location": "Washington, DC",
+        "name": "Kat Abu",
+        "id": "2868329501",
+        "username": "abughazalehkat",
+        "verified": true
+      },
+      {
+        "location": "Worcester, MA",
+        "name": "Worcester T&G Sports",
+        "id": "74740127",
+        "username": "tgsports",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "16249259",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "159",
+              "name": "States",
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+            },
+            "entity": {
+              "id": "855432197297192961",
+              "name": "Texas",
+              "description": "Texas"
+            }
+          }
+        ],
+        "text": "Meet the Congressman representing Uvalde, Texas: https://t.co/yWsna9Lac1",
+        "conversation_id": "1529211627354324992",
+        "source": "Twitter for iPhone",
+        "entities": {
+          "urls": [
+            {
+              "start": 49,
+              "end": 72,
+              "url": "https://t.co/yWsna9Lac1",
+              "expanded_url": "https://twitter.com/kenrudin/status/1529211627354324992/photo/1",
+              "display_url": "pic.twitter.com/yWsna9Lac1",
+              "media_key": "3_1529211623516295168"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 34,
+              "end": 46,
+              "probability": 0.7761,
+              "type": "Place",
+              "normalized_text": "Uvalde, Texas"
+            }
+          ]
+        },
+        "created_at": "2022-05-24T21:23:57.000Z",
+        "id": "1529211627354324992"
+      },
+      {
+        "author_id": "813286",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1266467007987253248",
+              "name": "George Floyd"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "10038764303",
+              "name": "Barack Obama",
+              "description": "Former US President Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "10038764303",
+              "name": "Barack Obama",
+              "description": "Former US President Barack Obama"
+            }
+          }
+        ],
+        "text": "As we grieve the children of Uvalde today, we should take time to recognize that two years have passed since the murder of George Floyd under the knee of a police officer. His killing stays with us all to this day, especially those who loved him.",
+        "conversation_id": "1529555038246428672",
+        "source": "Twitter Web App",
+        "created_at": "2022-05-25T20:08:33.000Z",
+        "entities": {
+          "annotations": [
+            {
+              "start": 29,
+              "end": 34,
+              "probability": 0.3425,
+              "type": "Person",
+              "normalized_text": "Uvalde"
+            },
+            {
+              "start": 123,
+              "end": 134,
+              "probability": 0.9974,
+              "type": "Person",
+              "normalized_text": "George Floyd"
+            }
+          ]
+        },
+        "id": "1529555038246428672"
+      },
+      {
+        "author_id": "3404875323",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "10037721473",
+              "name": "Marco Rubio",
+              "description": "US Senator Marco Rubio (FL)"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "10037721473",
+              "name": "Marco Rubio",
+              "description": "US Senator Marco Rubio (FL)"
+            }
+          },
+          {
+            "domain": {
+              "id": "159",
+              "name": "States",
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+            },
+            "entity": {
+              "id": "855432197297192961",
+              "name": "Texas",
+              "description": "Texas"
+            }
+          },
+          {
+            "domain": {
+              "id": "159",
+              "name": "States",
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+            },
+            "entity": {
+              "id": "855436277054750722",
+              "name": "Florida",
+              "description": "Florida"
+            }
+          }
+        ],
+        "text": "Marco Rubio is proving why his time in the Senate should be up. Over and over again, during the worst of times, he lacks the courage to stand up to the gun lobby. When he finally speaks up about the tragedy in Texas, he says this?\n\nFlorida\u2019s families deserve better. https://t.co/0gLmlqDQVk",
+        "conversation_id": "1529552929547599873",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1529525637043699718"
+          }
+        ],
+        "source": "Twitter Web App",
+        "entities": {
+          "urls": [
+            {
+              "start": 267,
+              "end": 290,
+              "url": "https://t.co/0gLmlqDQVk",
+              "expanded_url": "https://twitter.com/mkraju/status/1529525637043699718",
+              "display_url": "twitter.com/mkraju/status/\u2026"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 10,
+              "probability": 0.9874,
+              "type": "Person",
+              "normalized_text": "Marco Rubio"
+            },
+            {
+              "start": 43,
+              "end": 48,
+              "probability": 0.7995,
+              "type": "Organization",
+              "normalized_text": "Senate"
+            },
+            {
+              "start": 210,
+              "end": 214,
+              "probability": 0.9985,
+              "type": "Place",
+              "normalized_text": "Texas"
+            },
+            {
+              "start": 232,
+              "end": 238,
+              "probability": 0.9361,
+              "type": "Place",
+              "normalized_text": "Florida"
+            }
+          ]
+        },
+        "created_at": "2022-05-25T20:00:10.000Z",
+        "id": "1529552929547599873"
+      },
+      {
+        "author_id": "1161154266049986560",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "998665458063560704",
+              "name": "Greg Abbott",
+              "description": "US Governor of Texas, Greg Abbott"
+            }
+          },
+          {
+            "domain": {
+              "id": "29",
+              "name": "Events [Entity Service]",
+              "description": "Entity Service related Events domain"
+            },
+            "entity": {
+              "id": "1491415810367098880",
+              "name": "2022 Texas gubernatorial election"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "998665458063560704",
+              "name": "Greg Abbott",
+              "description": "US Governor of Texas, Greg Abbott"
+            }
+          },
+          {
+            "domain": {
+              "id": "38",
+              "name": "Political Race",
+              "description": ""
+            },
+            "entity": {
+              "id": "1491415810367098880",
+              "name": "2022 Texas gubernatorial election"
+            }
+          },
+          {
+            "domain": {
+              "id": "159",
+              "name": "States",
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+            },
+            "entity": {
+              "id": "855432197297192961",
+              "name": "Texas",
+              "description": "Texas"
+            }
+          }
+        ],
+        "text": "That\u2019s Him! The guy that Confronted Gov Abbott In Texas Today! https://t.co/1mrDl3XlJA",
+        "conversation_id": "1529570579317137408",
+        "source": "Twitter for iPhone",
+        "entities": {
+          "urls": [
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/1mrDl3XlJA",
+              "expanded_url": "https://twitter.com/America1Scotty/status/1529570579317137408/photo/1",
+              "display_url": "pic.twitter.com/1mrDl3XlJA",
+              "media_key": "3_1529570576733446145"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 50,
+              "end": 54,
+              "probability": 0.9618,
+              "type": "Place",
+              "normalized_text": "Texas"
+            }
+          ]
+        },
+        "created_at": "2022-05-25T21:10:18.000Z",
+        "id": "1529570579317137408"
+      },
+      {
+        "author_id": "727597759",
+        "text": "Way before their time. \ud83d\udc4d https://t.co/CkZEqMSj5Y",
+        "conversation_id": "1529627998173171712",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1528587317761323008"
+          }
+        ],
+        "source": "Twitterrific for iOS",
+        "entities": {
+          "urls": [
+            {
+              "start": 25,
+              "end": 48,
+              "url": "https://t.co/CkZEqMSj5Y",
+              "expanded_url": "https://twitter.com/Surfinskatin/status/1528587317761323008",
+              "display_url": "twitter.com/Surfinskatin/s\u2026"
+            }
+          ]
+        },
+        "created_at": "2022-05-26T00:58:28.000Z",
+        "id": "1529627998173171712"
+      },
+      {
+        "author_id": "563248428",
+        "text": "Actually, there is something we can do. Every person who works in a school building should stop coming to work. Every single one. All across the country. Stall the economy and demand sensible gun laws. Until they pass, we don't work.",
+        "conversation_id": "1529240684212932608",
+        "source": "Twitter for iPhone",
+        "created_at": "2022-05-24T23:19:25.000Z",
+        "id": "1529240684212932608"
+      },
+      {
+        "author_id": "380268462",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "981196086575443968",
+              "name": "Beto O'Rourke",
+              "description": "US Representative Beto O'Rourke (TX-16)"
+            }
+          },
+          {
+            "domain": {
+              "id": "29",
+              "name": "Events [Entity Service]",
+              "description": "Entity Service related Events domain"
+            },
+            "entity": {
+              "id": "1491415810367098880",
+              "name": "2022 Texas gubernatorial election"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "981196086575443968",
+              "name": "Beto O'Rourke",
+              "description": "US Representative Beto O'Rourke (TX-16)"
+            }
+          },
+          {
+            "domain": {
+              "id": "38",
+              "name": "Political Race",
+              "description": ""
+            },
+            "entity": {
+              "id": "1491415810367098880",
+              "name": "2022 Texas gubernatorial election"
+            }
+          }
+        ],
+        "text": "If you think it was \"classless\" for @BetoORourke to confront Governor Abbott at a press conference but don't think it was classless for the Governor to attend a fundraiser last night after the shooting, or to say today that \"it could have been worse,\" well, that's pretty telling.",
+        "conversation_id": "1529560447422177282",
+        "entities": {
+          "mentions": [
+            {
+              "start": 36,
+              "end": 48,
+              "username": "BetoORourke",
+              "id": "342863309"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 61,
+              "end": 75,
+              "probability": 0.9354,
+              "type": "Person",
+              "normalized_text": "Governor Abbott"
+            }
+          ]
+        },
+        "source": "Twitter Web App",
+        "created_at": "2022-05-25T20:30:03.000Z",
+        "id": "1529560447422177282"
+      },
+      {
+        "author_id": "2868329501",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596157181956",
+              "name": "Online Site"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "1065657279150665728",
+              "name": "Fox News",
+              "description": "Fox News"
+            }
+          }
+        ],
+        "text": "In the last 24 hours since the Uvalde massacre, Fox News has proposed at least 50 \"solutions\" and none of them are gun control. https://t.co/EqYcqk9H3k",
+        "conversation_id": "1529573713976377348",
+        "source": "Twitter Web App",
+        "entities": {
+          "urls": [
+            {
+              "start": 128,
+              "end": 151,
+              "url": "https://t.co/EqYcqk9H3k",
+              "expanded_url": "https://twitter.com/abughazalehkat/status/1529573713976377348/video/1",
+              "display_url": "pic.twitter.com/EqYcqk9H3k",
+              "media_key": "7_1529573316817723393"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 48,
+              "end": 55,
+              "probability": 0.9927,
+              "type": "Organization",
+              "normalized_text": "Fox News"
+            }
+          ]
+        },
+        "created_at": "2022-05-25T21:22:46.000Z",
+        "id": "1529573713976377348"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1529639433749790722",
+    "oldest_id": "1529639433183567872",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpywol5lq3s8mo1yqmnoiq1zglr43h"
+  }
+}
